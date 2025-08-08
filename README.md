@@ -1,2 +1,2 @@
-# CuestuionarioStress
+# CuestionarioStress
 Cuestionario Estrés
